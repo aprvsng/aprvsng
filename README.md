@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 Currently automating deployments with a CI/CD pipeline.<br><br>👯 Seeking collaboration on DevOps best practices and IaC.<br><br>🤝 Need help optimizing Kubernetes for scalability.<br><br>🌱 Learning advanced Ansible and container security.<br><br>💬 Ask me about monitoring tools, automated testing, or DevOps culture.<br><br>⚡ Fun fact: "DevOps" originated from merging "development" and "operations" to emphasize collaboration.<br><br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aprvsng)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Apurvasingh2992) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apurva-singh-0a3703250) 
 
