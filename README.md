@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apurva Singh
 
-### Software Engineer | Data Engineering • DevOps • Cloud
+### Software Engineer | Data Engineering | DevOps | Cloud
 
 I’m a **Software Engineer** with an interest in **Data Engineering, DevOps, Cloud, and Automation**.
 
