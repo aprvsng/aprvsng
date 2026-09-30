@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Apurva Singh
+# 👋 Hi, I'm Apurva
 
 I’m a **Software Engineer** with an interest in **Data Engineering, DevOps, Cloud, and Automation**.
 
